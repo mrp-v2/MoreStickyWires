@@ -1,0 +1,8 @@
+{
+  "loader": "forge:multi-layer",
+  "layers": {
+    "cutout": {
+      "parent": "morewires:block/infiniwire_dot"
+    }
+  }
+}

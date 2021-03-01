@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_orange_infiniwire",
+  "ingredients": [
+    {
+      "item": "morestickywires:sticky_orange_wire"
+    },
+    {
+      "item": "morestickywires:sticky_orange_wire"
+    },
+    {
+      "item": "morestickywires:sticky_orange_wire"
+    },
+    {
+      "item": "morestickywires:sticky_orange_wire"
+    },
+    {
+      "item": "morestickywires:sticky_orange_wire"
+    },
+    {
+      "item": "morestickywires:sticky_orange_wire"
+    },
+    {
+      "item": "morestickywires:sticky_orange_wire"
+    },
+    {
+      "item": "morestickywires:sticky_orange_wire"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_orange_infiniwire",
+    "count": 8
+  }
+}

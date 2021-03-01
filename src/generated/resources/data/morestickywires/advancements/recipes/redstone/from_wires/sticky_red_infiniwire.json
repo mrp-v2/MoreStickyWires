@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "morestickywires:from_wires/sticky_red_infiniwire"
+    ]
+  },
+  "criteria": {
+    "has_base_sticky_wire": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "morestickywires:sticky_red_wire"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "morestickywires:from_wires/sticky_red_infiniwire"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_base_sticky_wire",
+      "has_the_recipe"
+    ]
+  ]
+}

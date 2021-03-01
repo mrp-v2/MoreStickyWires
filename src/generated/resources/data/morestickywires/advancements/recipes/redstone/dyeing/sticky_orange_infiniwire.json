@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "morestickywires:dyeing/sticky_orange_infiniwire"
+    ]
+  },
+  "criteria": {
+    "has_sticky_infiniwire": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "morestickywires:sticky_infiniwires"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "morestickywires:dyeing/sticky_orange_infiniwire"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sticky_infiniwire",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_pink_infiniwire",
+  "ingredients": [
+    {
+      "item": "morestickywires:sticky_pink_wire"
+    },
+    {
+      "item": "morestickywires:sticky_pink_wire"
+    },
+    {
+      "item": "morestickywires:sticky_pink_wire"
+    },
+    {
+      "item": "morestickywires:sticky_pink_wire"
+    },
+    {
+      "item": "morestickywires:sticky_pink_wire"
+    },
+    {
+      "item": "morestickywires:sticky_pink_wire"
+    },
+    {
+      "item": "morestickywires:sticky_pink_wire"
+    },
+    {
+      "item": "morestickywires:sticky_pink_wire"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_pink_infiniwire",
+    "count": 8
+  }
+}

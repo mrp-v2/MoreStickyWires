@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_orange_wire",
+  "ingredients": [
+    {
+      "item": "morewires:orange_wire"
+    },
+    {
+      "item": "morewires:orange_wire"
+    },
+    {
+      "item": "morewires:orange_wire"
+    },
+    {
+      "item": "morewires:orange_wire"
+    },
+    {
+      "item": "morewires:orange_wire"
+    },
+    {
+      "item": "morewires:orange_wire"
+    },
+    {
+      "item": "morewires:orange_wire"
+    },
+    {
+      "item": "morewires:orange_wire"
+    },
+    {
+      "tag": "forge:slimeballs"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_orange_wire",
+    "count": 8
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "loader": "forge:multi-layer",
+  "layers": {
+    "cutout": {
+      "ambientocclusion": false,
+      "textures": {
+        "line": "morestickywires:block/redstone_dust_line1_rotated"
+      },
+      "elements": [
+        {
+          "from": [
+            5,
+            0.25,
+            6
+          ],
+          "to": [
+            11,
+            0.25,
+            10
+          ],
+          "shade": false,
+          "faces": {
+            "down": {
+              "texture": "#line",
+              "tintindex": 0
+            },
+            "up": {
+              "texture": "#line",
+              "tintindex": 0
+            }
+          }
+        }
+      ]
+    }
+  }
+}

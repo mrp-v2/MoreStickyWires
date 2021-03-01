@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "morestickywires:sticky_orange_infiniwire"
+    ]
+  },
+  "criteria": {
+    "has_base_wire": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "morewires:orange_infiniwire"
+          }
+        ]
+      }
+    },
+    "has_slimeballs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:slimeballs"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "morestickywires:sticky_orange_infiniwire"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_base_wire",
+      "has_slimeballs",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_green_infiniwire",
+  "ingredients": [
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "forge:dyes/green"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_green_infiniwire",
+    "count": 8
+  }
+}

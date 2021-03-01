@@ -1,0 +1,36 @@
+{
+  "loader": "forge:multi-layer",
+  "layers": {
+    "cutout": {
+      "parent": "morewires:block/infiniwire_up"
+    },
+    "translucent": {
+      "ambientocclusion": false,
+      "textures": {
+        "slime": "minecraft:block/slime_block"
+      },
+      "elements": [
+        {
+          "from": [
+            4,
+            0,
+            0.125
+          ],
+          "to": [
+            12,
+            16,
+            0.125
+          ],
+          "faces": {
+            "north": {
+              "texture": "#slime"
+            },
+            "south": {
+              "texture": "#slime"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

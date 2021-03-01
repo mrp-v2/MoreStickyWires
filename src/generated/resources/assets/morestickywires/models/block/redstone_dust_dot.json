@@ -1,0 +1,8 @@
+{
+  "loader": "forge:multi-layer",
+  "layers": {
+    "cutout": {
+      "parent": "minecraft:block/redstone_dust_dot"
+    }
+  }
+}

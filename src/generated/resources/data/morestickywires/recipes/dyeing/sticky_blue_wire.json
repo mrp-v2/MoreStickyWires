@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_blue_wire",
+  "ingredients": [
+    {
+      "tag": "morestickywires:sticky_wires"
+    },
+    {
+      "tag": "morestickywires:sticky_wires"
+    },
+    {
+      "tag": "morestickywires:sticky_wires"
+    },
+    {
+      "tag": "morestickywires:sticky_wires"
+    },
+    {
+      "tag": "morestickywires:sticky_wires"
+    },
+    {
+      "tag": "morestickywires:sticky_wires"
+    },
+    {
+      "tag": "morestickywires:sticky_wires"
+    },
+    {
+      "tag": "morestickywires:sticky_wires"
+    },
+    {
+      "tag": "forge:dyes/blue"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_blue_wire",
+    "count": 8
+  }
+}

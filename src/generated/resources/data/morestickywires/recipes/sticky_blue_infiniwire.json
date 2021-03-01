@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_blue_infiniwire",
+  "ingredients": [
+    {
+      "item": "morewires:blue_infiniwire"
+    },
+    {
+      "item": "morewires:blue_infiniwire"
+    },
+    {
+      "item": "morewires:blue_infiniwire"
+    },
+    {
+      "item": "morewires:blue_infiniwire"
+    },
+    {
+      "item": "morewires:blue_infiniwire"
+    },
+    {
+      "item": "morewires:blue_infiniwire"
+    },
+    {
+      "item": "morewires:blue_infiniwire"
+    },
+    {
+      "item": "morewires:blue_infiniwire"
+    },
+    {
+      "tag": "forge:slimeballs"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_blue_infiniwire",
+    "count": 8
+  }
+}

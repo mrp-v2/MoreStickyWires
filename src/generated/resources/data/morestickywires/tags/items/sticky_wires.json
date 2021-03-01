@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "morestickywires:sticky_orange_wire",
+    "morestickywires:sticky_red_wire",
+    "morestickywires:sticky_pink_wire",
+    "morestickywires:sticky_green_wire",
+    "morestickywires:sticky_blue_wire",
+    "morestickywires:sticky_yellow_wire"
+  ]
+}

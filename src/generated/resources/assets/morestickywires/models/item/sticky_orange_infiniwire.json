@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "morestickywires:item/sticky_orange_wire"
+  }
+}

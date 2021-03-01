@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "morestickywires:dyeing/sticky_blue_wire"
+    ]
+  },
+  "criteria": {
+    "has_sticky_wire": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "morestickywires:sticky_wires"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "morestickywires:dyeing/sticky_blue_wire"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sticky_wire",
+      "has_the_recipe"
+    ]
+  ]
+}

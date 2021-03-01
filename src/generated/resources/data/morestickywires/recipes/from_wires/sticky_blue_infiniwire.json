@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_blue_infiniwire",
+  "ingredients": [
+    {
+      "item": "morestickywires:sticky_blue_wire"
+    },
+    {
+      "item": "morestickywires:sticky_blue_wire"
+    },
+    {
+      "item": "morestickywires:sticky_blue_wire"
+    },
+    {
+      "item": "morestickywires:sticky_blue_wire"
+    },
+    {
+      "item": "morestickywires:sticky_blue_wire"
+    },
+    {
+      "item": "morestickywires:sticky_blue_wire"
+    },
+    {
+      "item": "morestickywires:sticky_blue_wire"
+    },
+    {
+      "item": "morestickywires:sticky_blue_wire"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_blue_infiniwire",
+    "count": 8
+  }
+}

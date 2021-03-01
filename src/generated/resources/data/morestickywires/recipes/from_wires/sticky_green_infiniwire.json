@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_green_infiniwire",
+  "ingredients": [
+    {
+      "item": "morestickywires:sticky_green_wire"
+    },
+    {
+      "item": "morestickywires:sticky_green_wire"
+    },
+    {
+      "item": "morestickywires:sticky_green_wire"
+    },
+    {
+      "item": "morestickywires:sticky_green_wire"
+    },
+    {
+      "item": "morestickywires:sticky_green_wire"
+    },
+    {
+      "item": "morestickywires:sticky_green_wire"
+    },
+    {
+      "item": "morestickywires:sticky_green_wire"
+    },
+    {
+      "item": "morestickywires:sticky_green_wire"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_green_infiniwire",
+    "count": 8
+  }
+}

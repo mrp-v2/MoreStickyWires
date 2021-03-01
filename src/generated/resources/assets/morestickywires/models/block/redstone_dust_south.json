@@ -1,0 +1,65 @@
+{
+  "loader": "forge:multi-layer",
+  "layers": {
+    "cutout": {
+      "ambientocclusion": false,
+      "textures": {
+        "line": "minecraft:block/redstone_dust_line0"
+      },
+      "elements": [
+        {
+          "from": [
+            6,
+            0.25,
+            11
+          ],
+          "to": [
+            9,
+            0.25,
+            16
+          ],
+          "shade": false,
+          "faces": {
+            "down": {
+              "texture": "#line",
+              "tintindex": 0
+            },
+            "up": {
+              "texture": "#line",
+              "tintindex": 0
+            }
+          }
+        }
+      ]
+    },
+    "translucent": {
+      "ambientocclusion": false,
+      "textures": {
+        "slime": "minecraft:block/slime_block"
+      },
+      "elements": [
+        {
+          "from": [
+            4,
+            0.125,
+            12
+          ],
+          "to": [
+            12,
+            0.125,
+            16
+          ],
+          "shade": false,
+          "faces": {
+            "down": {
+              "texture": "#slime"
+            },
+            "up": {
+              "texture": "#slime"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

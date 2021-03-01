@@ -1,0 +1,65 @@
+{
+  "loader": "forge:multi-layer",
+  "layers": {
+    "cutout": {
+      "ambientocclusion": false,
+      "textures": {
+        "line": "morestickywires:block/infiniwire_line1_rotated"
+      },
+      "elements": [
+        {
+          "from": [
+            0,
+            0.25,
+            6
+          ],
+          "to": [
+            5,
+            0.25,
+            10
+          ],
+          "shade": false,
+          "faces": {
+            "down": {
+              "texture": "#line",
+              "tintindex": 0
+            },
+            "up": {
+              "texture": "#line",
+              "tintindex": 0
+            }
+          }
+        }
+      ]
+    },
+    "translucent": {
+      "ambientocclusion": false,
+      "textures": {
+        "slime": "minecraft:block/slime_block"
+      },
+      "elements": [
+        {
+          "from": [
+            0,
+            0.125,
+            4
+          ],
+          "to": [
+            4,
+            0.125,
+            12
+          ],
+          "shade": false,
+          "faces": {
+            "down": {
+              "texture": "#slime"
+            },
+            "up": {
+              "texture": "#slime"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_yellow_infiniwire",
+  "ingredients": [
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "morestickywires:sticky_infiniwires"
+    },
+    {
+      "tag": "forge:dyes/yellow"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_yellow_infiniwire",
+    "count": 8
+  }
+}

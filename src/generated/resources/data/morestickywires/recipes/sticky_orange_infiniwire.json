@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sticky_orange_infiniwire",
+  "ingredients": [
+    {
+      "item": "morewires:orange_infiniwire"
+    },
+    {
+      "item": "morewires:orange_infiniwire"
+    },
+    {
+      "item": "morewires:orange_infiniwire"
+    },
+    {
+      "item": "morewires:orange_infiniwire"
+    },
+    {
+      "item": "morewires:orange_infiniwire"
+    },
+    {
+      "item": "morewires:orange_infiniwire"
+    },
+    {
+      "item": "morewires:orange_infiniwire"
+    },
+    {
+      "item": "morewires:orange_infiniwire"
+    },
+    {
+      "tag": "forge:slimeballs"
+    }
+  ],
+  "result": {
+    "item": "morestickywires:sticky_orange_infiniwire",
+    "count": 8
+  }
+}
